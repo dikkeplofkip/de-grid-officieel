@@ -1,1 +1,1 @@
-de grid officieel
+week 7 - grid
